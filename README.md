@@ -1,5 +1,7 @@
 # Dossy 📺
-Curated dictionary of dev-related words with definitions for a non-dev world. Pull requests with words or definitions or both words and definitions or even some spelling/grammatical corrections are very welcome.
+I am working on this dictionary of dev-related words with definitions for a non-dev world. In a perfect world it will be used for a future project, in our world it will likely be shelved when a shinier idea comes to mind.
+
+Pull requests with words or definitions or both words and definitions or even some spelling/grammatical corrections are very welcome.
 
 
 ## A
