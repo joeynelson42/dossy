@@ -48,7 +48,7 @@ A server works in much the same way*. You type in a __URL__ (think about your or
 
 A server is simply a __computer__ really far away that is waiting to take your order and give you the information you desire.
 
-* hence, the shared name (I assume)
+ *hence, the shared name (I assume)
 ## T
 
 ## U
