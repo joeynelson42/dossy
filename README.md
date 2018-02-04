@@ -1,5 +1,5 @@
-# dossy
-Curated dictionary of dev-related words with definitions for a non-dev world
+# Dossy 📺
+Curated dictionary of dev-related words with definitions for a non-dev world. Pull requests with words or definitions or both words and definitions or even some spelling/grammatical corrections are very welcome.
 
 
 ## A
