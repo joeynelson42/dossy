@@ -29,6 +29,7 @@ All you need are some parts that fit together like LEGO's. They are: [CPU](#CPU)
 ### Cookie
 
 ### CPU
+(Central Processing Unit)
 
 ## D
 ### Defragmentation
@@ -48,6 +49,7 @@ In order to defragment the LEGO's, we invent a storing scheme. We would fit toge
 
 ## G
 ### GPU
+(Graphics Processing Unit)
 
 ## H
 ### Hardware
@@ -60,6 +62,7 @@ In order to defragment the LEGO's, we invent a storing scheme. We would fit toge
 (Integrated Development Environment)
 
 ### IO
+(Input/Output)
 
 ### Internet
 
@@ -86,6 +89,7 @@ In order to defragment the LEGO's, we invent a storing scheme. We would fit toge
 ### Programming Language
 
 ### PSU
+(Power Supply Unit)
 
 ## Q
 
